@@ -92,13 +92,12 @@ Profissional com conhecimento em grande volume de dados, possui experiência nos
 
 <img
     align="left"
-    alt="PYSPARK"
-    title="PYSPARK"
+    alt="SQL"
+    title="SQL"
     width="30px"
     style="padding-right: 10px;"
-    src="https://az-icons.com/export/icons/1867c07db25701f635b0f13784e84822.svg "
+    src="https://az-icons.com/export/icons/1867c07db25701f635b0f13784e84822.svg"
 />
-
 
 <img
     align="left"
@@ -116,4 +115,4 @@ Profissional com conhecimento em grande volume de dados, possui experiência nos
     width="30px"
     style="padding-right: 10px;"
     src="https://az-icons.com/export/icons/679e395158754f2aa1194eb8a15ec8ec.svg"
-/>          
+/>
