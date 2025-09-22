@@ -17,13 +17,9 @@ Profissional com conhecimento em grande volume de dados, possui experiência nos
       style="padding-right: 10px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
   />
- [![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/martinsicaro/)
-
-
 </a>
 </p>
 
----
 
 ### **`Languages ​​and Technologies`**
 <p>
