@@ -6,7 +6,7 @@ Profissional com conhecimento em grande volume de dados, possui experiência nos
  ---
  
 ### **`Social Midia`**
-
+<p>
 <a href="https://www.linkedin.com/in/martinsicaro/" target="_blank" rel="noopener noreferrer">
   <img 
       align="left"
@@ -17,7 +17,7 @@ Profissional com conhecimento em grande volume de dados, possui experiência nos
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
   />
 </a>
-
+</p>
 ---
 
 ### **`Languages ​​and Technologies`**
