@@ -8,15 +8,17 @@ Profissional com conhecimento em grande volume de dados, possui experiência nos
 ### **`Social Midia`**
 
 <p>
-<a href="https://www.linkedin.com/in/martinsicaro/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/martinsicaro/" rel="noopener noreferrer">
   <img 
       align="left"
       alt="LinkedIn"
-      title="![LinkedIn](https://www.linkedin.com/in/martinsicaro/)"
+      title="https://www.linkedin.com/in/martinsicaro/"
       width="30px"
       style="padding-right: 10px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
   />
+ [![My LinkedIn](https://www.linkedin.com/in/martinsicaro/)
+
 </a>
 </p>
 
