@@ -6,23 +6,19 @@ Profissional com conhecimento em grande volume de dados, possui experiência nos
  ---
  
 ### **`Social Midia`**
-
-<p>
-<a href="https://www.linkedin.com/in/martinsicaro/" rel="noopener noreferrer">
-  <img 
+<img 
       align="left"
       alt="LinkedIn"
       title="https://www.linkedin.com/in/martinsicaro/"
       width="30px"
       style="padding-right: 10px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
-  />
-</a>
-</p>
-<p></p>
+/>
+
+---
 
 ### **`Languages ​​and Technologies`**
-<p>
+
 <img 
     align="left"
     alt="AZURE"
@@ -130,4 +126,3 @@ Profissional com conhecimento em grande volume de dados, possui experiência nos
     style="padding-right: 10px;"
     src="https://az-icons.com/export/icons/679e395158754f2aa1194eb8a15ec8ec.svg"
 />
-</p>
