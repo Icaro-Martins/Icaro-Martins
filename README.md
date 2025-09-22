@@ -21,6 +21,7 @@ Profissional com conhecimento em grande volume de dados, possui experiência nos
 </p>
 
 ---
+
 ### **`Languages ​​and Technologies`**
 <p>
 <img 
