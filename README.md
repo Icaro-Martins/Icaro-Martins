@@ -19,12 +19,11 @@ Profissional com conhecimento em grande volume de dados, possui experiência nos
 </a>
 
 <p>
- ---
+
 </p>
 
+
 ### **`Languages ​​and Technologies`**
-
-
 
 <img 
     align="left"
