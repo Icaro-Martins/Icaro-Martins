@@ -4,6 +4,7 @@
 Profissional com conhecimento em grande volume de dados, possui experiência nos recursos da plataforma Amazon Web Services, Microsoft Azure e seus recursos. Possui habilidades de ingestão e manipulação de dados, através de pipeline e tratamento de dados com PySpark. Com isso, desenvolve, mantém e testa infraestruturas para geração de dados. Atua na validação de registros quantitativo e qualitativo, além de outras estratégias que otimizem a eficiência e a qualidade dos sistemas.
 
  ---
+ 
 ### **`Social Midia`**
 
 <a href="https://www.linkedin.com/in/martinsicaro/" target="_blank" rel="noopener noreferrer">
@@ -18,8 +19,10 @@ Profissional com conhecimento em grande volume de dados, possui experiência nos
 </a>
 
 <p>
- ---
 </p>
+
+---
+
 ### **`Languages ​​and Technologies`**
 
 
