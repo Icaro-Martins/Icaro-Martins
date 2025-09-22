@@ -14,9 +14,9 @@ Profissional com conhecimento em grande volume de dados, possui experiência nos
       style="padding-right: 10px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
 />
-
+<br>
 ---
-
+<br>
 ### **`Languages ​​and Technologies`**
 
 <img 
