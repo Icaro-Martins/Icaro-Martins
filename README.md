@@ -149,6 +149,7 @@ Servir como **portfólio técnico** para recrutadores, líderes técnicos e prof
 Os projetos estão organizados seguindo boas práticas de engenharia de dados:
 
 ```text
+branch - databricks
 ├── studies/
 │   ├── python/
 │   ├── sql/
