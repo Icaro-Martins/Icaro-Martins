@@ -144,8 +144,6 @@ Tenho foco em:
 ### 🎯 **Objetivo deste repositório:**  
 Servir como **portfólio técnico** para recrutadores, líderes técnicos e profissionais da área de dados.
 
----
-
 ## 🗂️ Estrutura do Repositório
 
 Os projetos estão organizados seguindo boas práticas de engenharia de dados:
