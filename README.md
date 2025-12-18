@@ -171,12 +171,15 @@ Os projetos estão organizados seguindo boas práticas de engenharia de dados:
     └── notebooks_html/
 ````
 
-### **`Social Midia`**
-<img 
-      align="left"
-      alt="LinkedIn"
-      title="https://www.linkedin.com/in/martinsicaro/"
-      width="30px"
-      style="padding-right: 10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
-/>
+### **Social Midia**
+<a href="https://www.linkedin.com/in/martinsicaro/" target="_blank">
+  <img 
+    align="left"
+    alt="LinkedIn"
+    title="LinkedIn"
+    width="30px"
+    style="padding-right: 08px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+  />
+</a>
+
