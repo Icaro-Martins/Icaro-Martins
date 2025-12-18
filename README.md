@@ -151,7 +151,7 @@ Servir como **portfólio técnico** para recrutadores, líderes técnicos e prof
 Os projetos estão organizados seguindo boas práticas de engenharia de dados:
 
 ```text
-├── estudos/
+├── studies/
 │   ├── python/
 │   ├── sql/
 │   ├── spark/
@@ -160,10 +160,10 @@ Os projetos estão organizados seguindo boas práticas de engenharia de dados:
 │   └── governanca/
 │
 ├── projetos/
-│   ├── projeto_01_pipeline_batch/
-│   ├── projeto_02_bronze_silver_gold/
-│   ├── projeto_03_streaming_kafka/
-│   └── projeto_04_cloud_data_platform/
+│   ├── source_bronze/
+│   ├── bronze_silver/
+│   ├── silver_gold/
+│   └── utils/
 │
 └── docs/
     ├── diagramas/
