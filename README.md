@@ -124,15 +124,18 @@ Tenho foco em:
 />
 
 <br>
+<br>
 
-#### 🏅 Certificações
+### 🏅 Certificações
 
 | Certificação | Instituição | Link | Ano | Link |
 |-------------|------------|------|-----|------|
 | Microsoft Certified: Azure Fundamentals | Microsoft | [Microsoft Certified: Azure Data Fundamentals](https://learn.microsoft.com/en-us/users/icaromartins/credentials/c35fab8d496bb26b) |
 | Microsoft Certified: Azure Data Fundamentals | Microsoft | [Microsoft Certified: Azure Data Fundamentals](https://learn.microsoft.com/en-us/users/icaromartins/credentials/8552a937ea0dd563) |
-| Databricks Data Engineer | Databricks | Big Data | 2024 | [Ver](https://link) |
-| Apache Spark Fundamentals | Databricks | Big Data | 2023 | [Ver](https://link) |
+| Databricks Lakehouse Fundamentals | Databricks | [Databricks Lakehouse Fundamentals](https://credentials.databricks.com/profile/icaromartins/wallet) |
+| Databricks Azure Platform Architect | Databricks | [Databricks Azure Platform Architect](https://credentials.databricks.com/profile/icaromartins/wallet) |
+| Databricks Certified Data Engineer Associate | Databricks | [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/profile/icaromartins/wallet) |
+| Databricks Certified Data Engineer Professional | Databricks | [Databricks Certified Data Engineer Professional](https://credentials.databricks.com/profile/icaromartins/wallet) |
 
 
 <br>
