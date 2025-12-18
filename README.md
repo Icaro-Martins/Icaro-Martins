@@ -128,8 +128,8 @@ Tenho foco em:
 
 ### 🏅 Certificações
 
-| Certificação | Instituição | Link | Ano | Link |
-|-------------|------------|------|-----|------|
+| Certificação | Instituição | Link |
+|-------------|------------|------|
 | Microsoft Certified: Azure Fundamentals | Microsoft | [Microsoft Certified: Azure Data Fundamentals](https://learn.microsoft.com/en-us/users/icaromartins/credentials/c35fab8d496bb26b) |
 | Microsoft Certified: Azure Data Fundamentals | Microsoft | [Microsoft Certified: Azure Data Fundamentals](https://learn.microsoft.com/en-us/users/icaromartins/credentials/8552a937ea0dd563) |
 | Databricks Lakehouse Fundamentals | Databricks | [Databricks Lakehouse Fundamentals](https://credentials.databricks.com/profile/icaromartins/wallet) |
