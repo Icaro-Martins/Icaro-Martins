@@ -13,9 +13,7 @@ Tenho foco em:
 - **Qualidade, governança e performance**
 - Boas práticas de engenharia e arquitetura de dados
 
-<br>
-
-#### **Languages ​​and Technologies**
+### Languages ​​and Technologies
 
 <img 
     align="left"
@@ -124,6 +122,9 @@ Tenho foco em:
     style="padding-right: 10px;"
     src="https://az-icons.com/export/icons/679e395158754f2aa1194eb8a15ec8ec.svg"
 />
+
+<br>
+<br>
 
 #### 🎯 **Objetivo deste repositório:**  
 Servir como **portfólio técnico** para recrutadores, líderes técnicos e profissionais da área de dados.
