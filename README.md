@@ -3,7 +3,7 @@
 Bem-vindo(a) ao meu repositório de **estudos e projetos práticos em Engenharia de Dados**.  
 Este espaço foi criado para demonstrar, de forma organizada e prática, minhas habilidades técnicas, arquitetura de dados e boas práticas aplicadas em projetos reais e simulados.
 
-### Sobre mim
+## SOBRE MIM
 
 Sou **Engenheiro de Dados**, com experiência na construção de pipelines de dados de ponta a ponta — desde a extração e ingestão até a modelagem e disponibilização para consumo analítico.
 
