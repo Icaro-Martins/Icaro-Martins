@@ -136,6 +136,119 @@ Tenho foco em:
 - **Qualidade, governança e performance**
 - Boas práticas de engenharia e arquitetura de dados
 
+## **Languages ​​and Technologies**
+
+<img 
+    align="left"
+    alt="AZURE"
+    title="AZURE"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
+/>
+
+<img 
+    align="left"
+    alt="AWS"
+    title="AWS"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
+/>
+         
+
+<img
+    align="left"
+    alt="DATABRICKS"
+    title="DATABRICKS"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://az-icons.com/export/icons/d180faa9ddc77cb9e841ff02998e5e21.svg"
+/>
+<img
+    align="left"
+    alt="SNOWFLAKE"
+    title="SNOWFLAKE"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.brandfetch.io/idJz-fGD_q/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B"
+/>
+
+
+<img 
+    align="left"
+    alt="AZURE DEVOPS"
+    title="AZURE DEVOPS"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg"
+/>
+
+<img
+    align="left"
+    alt="GIT"
+    title="GIT"
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img
+    align="left"
+    alt="GIT"
+    title="GIT"
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"          
+/>
+
+<img
+    align="left"
+    alt="PYTHON"
+    title="PYTHON"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+
+
+<img
+    align="left"
+    alt="PYSPARK"
+    title="PYSPARK"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" 
+/>
+
+<img
+    align="left"
+    alt="SQL"
+    title="SQL"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://az-icons.com/export/icons/1867c07db25701f635b0f13784e84822.svg"
+/>
+
+<img
+    align="left"
+    alt="AIRFLOW"
+    title="AIRFLOW"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg"
+/>
+
+<img
+    align="left"
+    alt="DATA FACTORY"
+    title="DATA FACTORY"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://az-icons.com/export/icons/679e395158754f2aa1194eb8a15ec8ec.svg"
+/>
+
+<br>
+
+
 🎯 **Objetivo deste repositório:**  
 Servir como **portfólio técnico** para recrutadores, líderes técnicos e profissionais da área de dados.
 
