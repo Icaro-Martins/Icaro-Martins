@@ -252,7 +252,7 @@ Tenho foco em:
 
 
 
-🎯 **Objetivo deste repositório:**  
+### 🎯 **Objetivo deste repositório:**  
 Servir como **portfólio técnico** para recrutadores, líderes técnicos e profissionais da área de dados.
 
 ---
