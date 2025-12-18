@@ -125,11 +125,12 @@ Tenho foco em:
 
 <br>
 
-## 🏅 Certificações
+#### 🏅 Certificações
 
-| Certificação | Instituição | Área | Ano | Link |
+| Certificação | Instituição | Link | Ano | Link |
 |-------------|------------|------|-----|------|
-| Azure Data Engineer Associate | Microsoft | Cloud | 2024 | [Ver](https://link) |
+| Microsoft Certified: Azure Fundamentals | Microsoft | [Microsoft Certified: Azure Data Fundamentals](https://learn.microsoft.com/en-us/users/icaromartins/credentials/c35fab8d496bb26b) |
+| Microsoft Certified: Azure Data Fundamentals | Microsoft | [Microsoft Certified: Azure Data Fundamentals](https://learn.microsoft.com/en-us/users/icaromartins/credentials/8552a937ea0dd563) |
 | Databricks Data Engineer | Databricks | Big Data | 2024 | [Ver](https://link) |
 | Apache Spark Fundamentals | Databricks | Big Data | 2023 | [Ver](https://link) |
 
