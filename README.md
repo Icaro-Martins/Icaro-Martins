@@ -146,7 +146,7 @@ Servir como **portfólio técnico** para recrutadores, líderes técnicos e prof
 
 ## 🗂️ Estrutura do Repositório
 
-Os projetos estão organizados seguindo boas práticas de engenharia de dados:
+Os projetos estão organizados dentro da **`branch - databricks`** seguindo boas práticas de engenharia de dados:
 
 ```text
 branch - databricks
