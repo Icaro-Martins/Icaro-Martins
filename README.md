@@ -1,5 +1,4 @@
-# Icaro Martins 
-## 📊 Portfólio – Engenharia de Dados
+# Icaro Martins 📊 Portfólio – Engenharia de Dados
 
 Bem-vindo(a) ao meu repositório de **estudos e projetos práticos em Engenharia de Dados**.  
 Este espaço foi criado para demonstrar, de forma organizada e prática, minhas habilidades técnicas, arquitetura de dados e boas práticas aplicadas em projetos reais e simulados.
