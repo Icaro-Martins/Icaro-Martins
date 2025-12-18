@@ -126,7 +126,7 @@ Tenho foco em:
 <br>
 <br>
 
-### 🏅 Certificações
+### Certificações
 
 | Certificação | Instituição | Link |
 |-------------|------------|------|
