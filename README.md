@@ -172,7 +172,6 @@ Os projetos estão organizados seguindo boas práticas de engenharia de dados:
 ````
 
 ### **Social Midia**
-<a href="https://www.linkedin.com/in/martinsicaro/" target="_blank">
   <img 
     align="left"
     alt="LinkedIn"
@@ -181,8 +180,6 @@ Os projetos estão organizados seguindo boas práticas de engenharia de dados:
     style="padding-right: 08px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
   />
-    LinkedIn
-</a>
-
+  `https://www.linkedin.com/in/martinsicaro/`
 
 
