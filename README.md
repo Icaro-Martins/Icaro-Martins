@@ -154,6 +154,7 @@ Os projetos estão organizados seguindo boas práticas de engenharia de dados:
     ├── diagramas/
     ├── arquiteturas/
     └── notebooks_html/
+````
 
 ### **`Social Midia`**
 <img 
