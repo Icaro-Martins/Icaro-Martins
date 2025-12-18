@@ -20,7 +20,7 @@ Tenho foco em:
     alt="AZURE"
     title="AZURE"
     width="30px"
-    style="padding-right: 10px;"
+    style="padding-right: 08px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
 />
 
@@ -29,7 +29,7 @@ Tenho foco em:
     alt="AWS"
     title="AWS"
     width="30px"
-    style="padding-right: 10px;"
+    style="padding-right: 08px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
 />
          
@@ -39,7 +39,7 @@ Tenho foco em:
     alt="DATABRICKS"
     title="DATABRICKS"
     width="30px"
-    style="padding-right: 10px;"
+    style="padding-right: 08px;"
     src="https://az-icons.com/export/icons/d180faa9ddc77cb9e841ff02998e5e21.svg"
 />
 <img
@@ -47,7 +47,7 @@ Tenho foco em:
     alt="SNOWFLAKE"
     title="SNOWFLAKE"
     width="30px"
-    style="padding-right: 10px;"
+    style="padding-right: 08px;"
     src="https://cdn.brandfetch.io/idJz-fGD_q/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B"
 />
 
@@ -57,7 +57,7 @@ Tenho foco em:
     alt="AZURE DEVOPS"
     title="AZURE DEVOPS"
     width="30px"
-    style="padding-right: 10px;"
+    style="padding-right: 08px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg"
 />
 
@@ -74,6 +74,7 @@ Tenho foco em:
     alt="GIT"
     title="GIT"
     width="30px"
+    style="padding-right: 08px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"          
 />
 
@@ -82,7 +83,7 @@ Tenho foco em:
     alt="PYTHON"
     title="PYTHON"
     width="30px"
-    style="padding-right: 10px;"
+    style="padding-right: 08px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 
@@ -92,7 +93,7 @@ Tenho foco em:
     alt="PYSPARK"
     title="PYSPARK"
     width="30px"
-    style="padding-right: 10px;"
+    style="padding-right: 08px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" 
 />
 
@@ -101,7 +102,7 @@ Tenho foco em:
     alt="SQL"
     title="SQL"
     width="30px"
-    style="padding-right: 10px;"
+    style="padding-right: 08px;"
     src="https://az-icons.com/export/icons/1867c07db25701f635b0f13784e84822.svg"
 />
 
@@ -110,7 +111,7 @@ Tenho foco em:
     alt="AIRFLOW"
     title="AIRFLOW"
     width="30px"
-    style="padding-right: 10px;"
+    style="padding-right: 08px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg"
 />
 
@@ -119,7 +120,7 @@ Tenho foco em:
     alt="DATA FACTORY"
     title="DATA FACTORY"
     width="30px"
-    style="padding-right: 10px;"
+    style="padding-right: 08px;"
     src="https://az-icons.com/export/icons/679e395158754f2aa1194eb8a15ec8ec.svg"
 />
 
