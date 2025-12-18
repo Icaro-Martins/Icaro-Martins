@@ -124,6 +124,16 @@ Tenho foco em:
 />
 
 <br>
+
+## 🏅 Certificações
+
+| Certificação | Instituição | Área | Ano | Link |
+|-------------|------------|------|-----|------|
+| Azure Data Engineer Associate | Microsoft | Cloud | 2024 | [Ver](https://link) |
+| Databricks Data Engineer | Databricks | Big Data | 2024 | [Ver](https://link) |
+| Apache Spark Fundamentals | Databricks | Big Data | 2023 | [Ver](https://link) |
+
+
 <br>
 
 #### 🎯 **Objetivo deste repositório:**  
