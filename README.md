@@ -183,12 +183,9 @@ Os projetos estão organizados seguindo boas práticas de engenharia de dados:
   />
 </a>
 
-<a href="https://www.linkedin.com/in/martinsicaro/">
-  <img
-    alt="LinkedIn"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-  />
+<a href="https://www.linkedin.com/in/martinsicaro/" target="_blank">
+  LinkedIn
 </a>
+
 
 
