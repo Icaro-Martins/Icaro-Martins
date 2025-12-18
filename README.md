@@ -248,7 +248,7 @@ Tenho foco em:
     src="https://az-icons.com/export/icons/679e395158754f2aa1194eb8a15ec8ec.svg"
 />
 
-<p></p>
+<br>
 
 🎯 **Objetivo deste repositório:**  
 Servir como **portfólio técnico** para recrutadores, líderes técnicos e profissionais da área de dados.
