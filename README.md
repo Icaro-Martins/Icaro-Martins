@@ -203,4 +203,17 @@ com foco em escalabilidade, qualidade e governança.
   />
   `https://www.linkedin.com/in/martinsicaro/`
 
+📚 <a href="https://github.com/Icaro-Martins/databricks/wiki/" 
+     target="_blank" 
+     rel="noopener noreferrer">
+     Documentação completa na Wiki
+   </a>
+
+🔗 <a href="https://github.com/Icaro-Martins/databricks/" 
+     target="_blank" 
+     rel="noopener noreferrer">
+     Código do projeto (branch databricks)
+   </a>
+
+
 
