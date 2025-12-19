@@ -5,7 +5,20 @@ Este espaço foi criado para demonstrar, de forma organizada e prática, minhas 
 
 ## Sobre Mim
 
-Sou **Engenheiro de Dados**, com experiência na construção de pipelines de dados de ponta a ponta — desde a extração e ingestão até a modelagem e disponibilização para consumo analítico.
+Sou **Engenheiro de Dados**, com experiência na construção de pipelines de dados de ponta a ponta — 
+desde a extração e ingestão até a modelagem e disponibilização para consumo analítico.
+
+Atuo criando **soluções de dados escaláveis, confiáveis e orientadas a negócio**, 
+trabalhando com grandes volumes de dados em ambientes **cloud e big data**, 
+sempre com foco em **performance, governança e qualidade da informação**.
+
+Tenho experiência tanto com **processamentos em batch quanto em tempo real**, 
+desenvolvendo pipelines que garantem dados consistentes, rastreáveis e prontos para apoiar 
+tomadas de decisão, análises estratégicas e produtos de dados.
+
+No dia a dia, busco aplicar **boas práticas de engenharia e arquitetura de dados**, 
+pensando não apenas na entrega técnica, mas também em **custo, manutenção e evolução da solução ao longo do tempo**.
+
 
 Tenho foco em:
 - Dados em **batch e tempo real**
