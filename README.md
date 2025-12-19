@@ -71,21 +71,12 @@ Tenho foco em:
 
 <img
     align="left"
-    alt="GIT"
-    title="GIT"
+    alt="GITHUB"
+    title="GITHUB"
     width="30px"
     style="padding-right: 08px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"          
 />
-
-<img
-    align="left"
-    alt="KAFKA"
-    title="KAFKA"
-    width="30px"
-    style="padding-right: 08px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg"
-/>  
 
 <img
     align="left"
