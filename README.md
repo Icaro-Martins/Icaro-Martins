@@ -12,8 +12,7 @@ Atuo criando **soluções de dados escaláveis, confiáveis e orientadas a negó
 trabalhando com grandes volumes de dados em ambientes **cloud e big data**, 
 sempre com foco em **performance, governança e qualidade da informação**.
 
-Tenho experiência tanto com **processamentos em batch quanto em tempo real**, 
-desenvolvendo pipelines que garantem dados consistentes, rastreáveis e prontos para apoiar 
+Tenho experiência no desenvolvendo de pipelines que garantem dados consistentes, rastreáveis e prontos para apoiar 
 tomadas de decisão, análises estratégicas e produtos de dados.
 
 No dia a dia, busco aplicar **boas práticas de engenharia e arquitetura de dados**, 
