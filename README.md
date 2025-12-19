@@ -190,7 +190,7 @@ com foco em escalabilidade, qualidade e governança.
 - [Ver documentação completa na Wiki](https://github.com/Icaro-Martins/databricks/wiki/)
 
 🔗 **Código**
-- [Acessar projeto (branch databricks)](https://github.com/Icaro-Martins/databricks/tree/databricks/)
+- [Acessar projeto (branch databricks)](https://github.com/Icaro-Martins/tree/databricks/)
 
 ### 📬 Conecte-se comigo
 <img 
