@@ -202,18 +202,3 @@ com foco em escalabilidade, qualidade e governança.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
   />
   `https://www.linkedin.com/in/martinsicaro/`
-
-📚 <a href="https://github.com/Icaro-Martins/databricks/wiki/" 
-     target="_blank" 
-     rel="noopener noreferrer">
-     Documentação completa na Wiki
-   </a>
-
-🔗 <a href="https://medium.com/a3data/6-dicas-para-vencer-a-certifica%C3%A7%C3%A3o-spark-3-0-developer-associate-do-databricks-adcc0b09009d" 
-     target="_blank" 
-     rel="noopener noreferrer">
-     Código do projeto (branch databricks)
-   </a>
-
-
-
