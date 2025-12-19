@@ -173,6 +173,7 @@ Os projetos estão organizados dentro da **`branch - databricks`** seguindo boas
 │   ├── 🥉 source_bronze/
 │   ├── 🥈 bronze_silver/
 │   ├── 🥇 silver_gold/
+|   ├── ❄️ snowflake/ 
 │   └── 🧰 utils/
 │
 └── 🗂️ docs/
