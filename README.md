@@ -182,6 +182,16 @@ Os projetos estão organizados dentro da **`branch - databricks`** seguindo boas
 ````
 Essa estrutura segue o padrão arquitetura Medallion do Lakehouse (`Bronze`, `Silver` e `Gold`), garantindo qualidade, rastreabilidade e escalabilidade dos dados.
 
+### 📚 Documentação & Arquitetura
+Pipeline de dados seguindo o padrão Lakehouse (Bronze, Silver e Gold),
+com foco em escalabilidade, qualidade e governança.
+
+📄 **Documentação**
+- [Ver documentação completa na Wiki](../../wiki/)
+
+🔗 **Código**
+- [Acessar projeto](./projetos/pipeline-batch)
+
 
 ### 📬 Conecte-se comigo
 <img 
