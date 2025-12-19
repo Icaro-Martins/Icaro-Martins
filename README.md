@@ -138,7 +138,6 @@ Tenho foco em:
 />
 
 <br>
-<br>
 
 ### Certificações
 
@@ -150,7 +149,6 @@ Tenho foco em:
 | Databricks Azure Platform Architect | Databricks | [Databricks Azure Platform Architect](https://credentials.databricks.com/profile/icaromartins/wallet) |
 | Databricks Certified Data Engineer Associate | Databricks | [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/profile/icaromartins/wallet) |
 | Databricks Certified Data Engineer Professional | Databricks | [Databricks Certified Data Engineer Professional](https://credentials.databricks.com/profile/icaromartins/wallet) |
-
 
 <br>
 
