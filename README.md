@@ -181,7 +181,7 @@ Os projetos estão organizados dentro da **`branch - databricks`** seguindo boas
     ├── 🏗️ arquiteturas/
     └── 📘 notebooks_html/
 ````
-Essa estrutura segue o padrão arquitetura Medallion do Lakehouse (`Bronze`, `Silver` e `Gold`), garantindo qualidade, rastreabilidade e escalabilidade dos dados.
+Essa estrutura segue o padrão da arquitetura Medallion do Lakehouse (`Bronze`, `Silver` e `Gold`), garantindo qualidade, rastreabilidade e escalabilidade dos dados.
 
 ### 📚 Documentação & Arquitetura
 Pipeline de dados seguindo o padrão Lakehouse (Bronze, Silver e Gold),
