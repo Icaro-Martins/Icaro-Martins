@@ -162,23 +162,23 @@ Os projetos estão organizados dentro da **`branch - databricks`** seguindo boas
 ```text
 🌿 branch - databricks
 ├── 📚 studies/
-│   ├── python/
-│   ├── sql/
-│   ├── spark/
-│   ├── databricks/
-│   ├── azure/
-│   └── governanca/
+│   ├── 🐍 python/
+│   ├── 🧮 sql/
+│   ├── 🔥 spark/
+│   ├── 🧱 databricks/
+│   ├── ☁️ azure/
+│   └── 🛡️ governanca/
 │
 ├── 🚀 projetos/
-│   ├── source_bronze/
-│   ├── bronze_silver/
-│   ├── silver_gold/
-│   └── utils/
+│   ├── 🥉 source_bronze/
+│   ├── 🥈 bronze_silver/
+│   ├── 🥇 silver_gold/
+│   └── 🧰 utils/
 │
 └── 🗂️ docs/
-    ├── diagramas/
-    ├── arquiteturas/
-    └── notebooks_html/
+    ├── 📐 diagramas/
+    ├── 🏗️ arquiteturas/
+    └── 📘 notebooks_html/
 ````
 Essa estrutura segue o padrão arquitetura Medallion do Lakehouse (`Bronze`, `Silver` e `Gold`), garantindo qualidade, rastreabilidade e escalabilidade dos dados.
 
