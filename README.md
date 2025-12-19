@@ -188,7 +188,7 @@ com foco em escalabilidade, qualidade e governança.
 
 📄 **Documentação**
 - [Ver documentação completa na Wiki](../../wiki/)
-- [Ver documentação completa na Wiki](https://github.com/Icaro-Martins/Icaro-Martins/wiki/)
+- [Ver documentação completa na Wiki](https://github.com/Icaro-Martins/databricks/wiki/)
 
 🔗 **Código**
 - [Acessar projeto](./projetos/pipeline-batch)
