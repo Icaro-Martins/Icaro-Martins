@@ -209,7 +209,7 @@ com foco em escalabilidade, qualidade e governança.
      Documentação completa na Wiki
    </a>
 
-🔗 <a href="https://github.com/Icaro-Martins/databricks/" 
+🔗 <a href="https://medium.com/a3data/6-dicas-para-vencer-a-certifica%C3%A7%C3%A3o-spark-3-0-developer-associate-do-databricks-adcc0b09009d" 
      target="_blank" 
      rel="noopener noreferrer">
      Código do projeto (branch databricks)
