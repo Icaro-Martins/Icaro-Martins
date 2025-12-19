@@ -192,7 +192,7 @@ com foco em escalabilidade, qualidade e governança.
 🔗 **Código**
 > [Acessar projeto (branch databricks)](https://github.com/Icaro-Martins/databricks/)
 
-⚠️ `**Atenção**: Por política do github, a documentação e códigos, abrem na mesma aba.`
+⚠️ **`Atenção:`** `Por política do github, a documentação e códigos, abrem na mesma aba.`
 
 ### 📬 Conecte-se comigo
 <img 
