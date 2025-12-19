@@ -187,12 +187,12 @@ Pipeline de dados seguindo o padrão Lakehouse (Bronze, Silver e Gold),
 com foco em escalabilidade, qualidade e governança.
 
 📄 **Documentação**
-- [Ver documentação completa na Wiki](https://github.com/Icaro-Martins/databricks/wiki/)
+> [Ver documentação completa na Wiki](https://github.com/Icaro-Martins/databricks/wiki/)
 
 🔗 **Código**
-- [Acessar projeto (branch databricks)](https://github.com/Icaro-Martins/databricks/)
+> [Acessar projeto (branch databricks)](https://github.com/Icaro-Martins/databricks/)
 
-- ⚠️ **Atenção**: Por política do github, a documentação e códigos, abrem na mesma aba.
+⚠️ **Atenção**: Por política do github, a documentação e códigos, abrem na mesma aba.
 
 ### 📬 Conecte-se comigo
 <img 
