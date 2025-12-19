@@ -26,7 +26,7 @@ Tenho foco em:
 - **Qualidade, governança e performance**
 - Boas práticas de engenharia e arquitetura de dados
 
-### Languages ​​and Technologies
+### Linguagens ​​e Tecnologias
 
 <img 
     align="left"
