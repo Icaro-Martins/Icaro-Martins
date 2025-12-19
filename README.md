@@ -162,8 +162,8 @@ Servir como **portfólio técnico** para recrutadores, líderes técnicos e prof
 Os projetos estão organizados dentro da **`branch - databricks`** seguindo boas práticas de engenharia de dados:
 
 ```text
-branch - databricks
-├── studies/
+🌿 branch - databricks
+├── 📚 studies/
 │   ├── python/
 │   ├── sql/
 │   ├── spark/
@@ -171,13 +171,13 @@ branch - databricks
 │   ├── azure/
 │   └── governanca/
 │
-├── projetos/
+├── 🚀 projetos/
 │   ├── source_bronze/
 │   ├── bronze_silver/
 │   ├── silver_gold/
 │   └── utils/
 │
-└── docs/
+└── 🗂️ docs/
     ├── diagramas/
     ├── arquiteturas/
     └── notebooks_html/
