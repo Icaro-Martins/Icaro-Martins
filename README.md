@@ -131,8 +131,8 @@ Tenho foco em:
 
 | Certificação | Instituição | Link |
 |-------------|------------|------|
-| Microsoft Certified: Azure Fundamentals | Microsoft | [Microsoft Certified: Azure Data Fundamentals](https://learn.microsoft.com/en-us/users/icaromartins/credentials/c35fab8d496bb26b) |
-| Microsoft Certified: Azure Data Fundamentals | Microsoft | [Microsoft Certified: Azure Data Fundamentals](https://learn.microsoft.com/en-us/users/icaromartins/credentials/8552a937ea0dd563) |
+| Microsoft Certified: Azure Fundamentals | Microsoft | [Azure Fundamentals](https://learn.microsoft.com/en-us/users/icaromartins/credentials/c35fab8d496bb26b) |
+| Microsoft Certified: Azure Data Fundamentals | Microsoft | [Azure Data Fundamentals](https://learn.microsoft.com/en-us/users/icaromartins/credentials/8552a937ea0dd563) |
 | Databricks Lakehouse Fundamentals | Databricks | [Databricks Lakehouse Fundamentals](https://credentials.databricks.com/profile/icaromartins/wallet) |
 | Databricks Azure Platform Architect | Databricks | [Databricks Azure Platform Architect](https://credentials.databricks.com/profile/icaromartins/wallet) |
 | Databricks Certified Data Engineer Associate | Databricks | [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/profile/icaromartins/wallet) |
@@ -169,9 +169,11 @@ branch - databricks
     ├── arquiteturas/
     └── notebooks_html/
 ````
+Essa estrutura segue o padrão Lakehouse (Bronze, Silver e Gold), garantindo qualidade, rastreabilidade e escalabilidade dos dados.
 
-### **Social Midia**
-  <img 
+
+### 📬 Conecte-se comigo
+<img 
     align="left"
     alt="LinkedIn"
     title="LinkedIn"
