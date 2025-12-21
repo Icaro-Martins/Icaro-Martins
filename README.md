@@ -168,14 +168,14 @@ Os projetos estão organizados dentro da **`branch - databricks`** seguindo boas
 │
 ├── 🚀 projetos/
 │   ├── 🥉 source_bronze/   # Ingestão de dados brutos
-│   ├── 🥈 bronze_silver/   # Transformações intermediárias
+│   ├── 🥈 bronze_silver/   # Transformações e Limpeza dos dados
 │   ├── 🥇 silver_gold/     # Camada de enriquecimento
 |   ├── ❄️ snowflake/       # Projetos focados em Snowflake (ELT, consumo, otimização)
 |   ├── 🧱 data_products/   # Produtos de dados (métricas, marts, domínios)
 │   └── 🧰 utils/           # Funções e componentes reutilizáveis 
 │
 └── 🗂️ docs/
-    └── 📘 notebooks_html/
+    └── 📘 notebooks_html/ # Usados para exibir nos wiki para projetos de referencia
 ````
 Essa estrutura segue o padrão da arquitetura Medallion do Lakehouse (`Bronze`, `Silver` e `Gold`), garantindo qualidade, rastreabilidade e escalabilidade dos dados.
 
