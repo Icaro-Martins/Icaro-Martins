@@ -171,7 +171,7 @@ Os projetos estão organizados dentro da **`branch - databricks`** seguindo boas
 │   ├── 🥈 bronze_silver/   # Transformações e Limpeza dos dados
 │   ├── 🥇 silver_gold/     # Camada de enriquecimento
 |   ├── ❄️ snowflake/       # Projetos focados em Snowflake (ELT, consumo, otimização)
-|   ├── 🧱 data_products/   # Produtos de dados (métricas, marts, domínios)
+|   ├── 🧱 data_products/   # Outros projetos que não foram necessário usar a arquitetura Medallion
 │   └── 🧰 utils/           # Funções e componentes reutilizáveis 
 │
 └── 🗂️ docs/
