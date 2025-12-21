@@ -175,7 +175,7 @@ Os projetos estão organizados dentro da **`branch - databricks`** seguindo boas
 │   └── 🧰 utils/           # Funções e componentes reutilizáveis 
 │
 └── 🗂️ docs/
-    └── 📘 notebooks_html/ # Usados para exibir nos wiki para projetos de referencia
+    └── 📘 notebooks_html/  # Usados para exibir nos wiki para projetos de referencia
 ````
 Essa estrutura segue o padrão da arquitetura Medallion do Lakehouse (`Bronze`, `Silver` e `Gold`), garantindo qualidade, rastreabilidade e escalabilidade dos dados.
 
