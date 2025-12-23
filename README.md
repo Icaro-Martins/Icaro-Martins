@@ -172,8 +172,8 @@ Os projetos estão organizados dentro da **`branch - databricks`** seguindo boas
 │   ├── 🥇 silver_gold/     # Camada de enriquecimento
 │   └── 🧰 utils/           # Funções e componentes reutilizáveis 
 │
-├── ❄️ snowflake/       # Projetos focados em Snowflake (ELT, consumo, otimização)
-├── 🧱 data_products/   # Outros projetos que não foram necessário usar a arquitetura Medallion
+├── ❄️ snowflake/           # Projetos focados em Snowflake (ELT, consumo, otimização)
+├── 🧱 data_products/       # Outros projetos que não foram necessário usar a arquitetura Medallion
 |
 └── 🗂️ docs/
     └── 📘 notebooks_html/  # Usados para exibir nos wiki para projetos de referência
