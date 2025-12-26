@@ -1,12 +1,3 @@
-<p align="center">
-  <a href="README.md">
-    <img src="https://flagcdn.com/w20/br.png" width="20"> Português
-  </a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/Icaro-Martins/Icaro-Martins.wiki.git">
-    <img src="https://flagcdn.com/w20/us.png" width="20"> English
-  </a>
-
 ## 📊 **PORTFÓLIO – ENGENHARIA DE DADOS**
 
 Bem-vindo(a) ao meu repositório de **estudos e projetos práticos em Engenharia de Dados**.  
