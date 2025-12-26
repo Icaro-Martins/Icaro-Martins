@@ -3,7 +3,7 @@
     <img src="https://flagcdn.com/w20/br.png" width="20"> Português
   </a>
   &nbsp;•&nbsp;
-  <a href="README.en.md">
+  <a href="https://github.com/Icaro-Martins/Icaro-Martins.wiki.git">
     <img src="https://flagcdn.com/w20/us.png" width="20"> English
   </a>
 
