@@ -179,6 +179,8 @@ To serve as a **technical portfolio** for recruiters, techninal leaders and data
 
 Os projetos estão organizados dentro da **`branch - databricks`** seguindo boas práticas de engenharia de dados:
 
+### 🗂️ Repos Structure
+The projects are organized within the **`branch - databricks`** following data engineer best practices::
 ```text
 🌿 branch - databricks
 ├── 📚 studies/
@@ -186,17 +188,17 @@ Os projetos estão organizados dentro da **`branch - databricks`** seguindo boas
 │   ├── 🧮 sql/
 │   ├── 🔥 spark/
 │
-├── 🚀 projetos/
-│   ├── 🥉 source_bronze/   # Ingestão de dados brutos
-│   ├── 🥈 bronze_silver/   # Transformações e Limpeza dos dados
-│   ├── 🥇 silver_gold/     # Camada de enriquecimento
-│   └── 🧰 utils/           # Funções e componentes reutilizáveis 
+├── 🚀 projects/
+│   ├── 🥉 source_bronze/   # Raw data ingestion.
+│   ├── 🥈 bronze_silver/   # Data transformation and cleansing.
+│   ├── 🥇 silver_gold/     # Enrichmant layer.
+│   └── 🧰 utils/           # Reusable funtions and components.
 │
-├── ❄️ snowflake/           # Projetos focados em Snowflake (ELT, consumo, otimização)
-├── 🧱 data_products/       # Outros projetos que não foram necessário usar a arquitetura Medallion
+├── ❄️ snowflake/           # Projects focused on snowflake (ETL, consumption and optimization).
+├── 🧱 data_products/       # Ohter projects that not did not require the user of Medallion Architecture.
 |
 └── 🗂️ docs/
-    └── 📘 notebooks_html/  # Usados para exibir nos wiki para projetos de referência
+    └── 📘 notebooks_html/  # Used for display in wiki to reference projects.
 ```
 Essa estrutura segue o padrão da arquitetura Medallion do Lakehouse (`Bronze`, `Silver` e `Gold`), garantindo qualidade, rastreabilidade e escalabilidade dos dados.
 
