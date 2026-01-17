@@ -22,6 +22,8 @@ I work creating **scalable, reliable and bussiness oriented data solutions**, wo
 Tenho experiência no desenvolvendo de pipelines que garantem dados consistentes, rastreáveis e prontos para apoiar 
 tomadas de decisão, análises estratégicas e produtos de dados.
 
+I have experience in developing pipelines that ensure consistent, traceable data ready to support decision-making, strategic analysis and data products.
+
 No dia a dia, busco aplicar **boas práticas de engenharia e arquitetura de dados**, 
 pensando não apenas na entrega técnica, mas também em **custo, manutenção e evolução da solução ao longo do tempo**.
 
