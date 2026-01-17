@@ -17,6 +17,8 @@ Atuo criando **soluções de dados escaláveis, confiáveis e orientadas a negó
 trabalhando com grandes volumes de dados em ambientes **cloud e big data**, 
 sempre com foco em **performance, governança e qualidade da informação**.
 
+I work creating **scalable, reliable and bussiness oriented data solutions**, working with large volumes of data in **cloud and big data** environments, always focusing on **performance, governance and information quality**.
+
 Tenho experiência no desenvolvendo de pipelines que garantem dados consistentes, rastreáveis e prontos para apoiar 
 tomadas de decisão, análises estratégicas e produtos de dados.
 
