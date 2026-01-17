@@ -6,10 +6,12 @@ Este espaço foi criado para demonstrar, de forma organizada e prática, minhas 
 Welcome to in my portfolio of **studies and projects pratical in data engineer**.  
 This space was created to demonstrated, in a organized and pratical way, my technical skills, data architecture, and best practices applied in real and simulated projects.
 
-## Sobre Mim
+## About me
 
 Sou **Engenheiro de Dados**, com experiência na construção de pipelines de dados de ponta a ponta — 
 desde a extração e ingestão até a modelagem e disponibilização para consumo analítico.
+
+I'm a **Data Engineer**, with experince in building end-to-end data pipelines — from data retrieval and consumption to modeling and making data available for analytical consumption.
 
 Atuo criando **soluções de dados escaláveis, confiáveis e orientadas a negócio**, 
 trabalhando com grandes volumes de dados em ambientes **cloud e big data**, 
