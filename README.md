@@ -1,7 +1,10 @@
-## 📊 **PORTFÓLIO – ENGENHARIA DE DADOS**
+## 📊 **PORTFOLIO – DATA ENGINEER**
 
 Bem-vindo(a) ao meu repositório de **estudos e projetos práticos em Engenharia de Dados**.  
 Este espaço foi criado para demonstrar, de forma organizada e prática, minhas habilidades técnicas, arquitetura de dados e boas práticas aplicadas em projetos reais e simulados.
+
+Welcome to in my portfolio of **studies and projects pratical in data engineer**.
+This space was created to demonstrated, in a organized and pratical way, my technical skills, data architecture, and best practices applied in real and simulated projects.
 
 ## Sobre Mim
 
