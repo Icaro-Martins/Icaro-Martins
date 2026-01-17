@@ -27,6 +27,7 @@ I have experience in developing pipelines that ensure consistent, traceable data
 No dia a dia, busco aplicar **boas práticas de engenharia e arquitetura de dados**, 
 pensando não apenas na entrega técnica, mas também em **custo, manutenção e evolução da solução ao longo do tempo**.
 
+In my day-to-day work, I strive to apply **best practices in data engineer and architecture** considering not only the technical delivery, but also **cost, maintenance and**
 
 Tenho foco em:
 - Dados em **batch e tempo real**
@@ -34,7 +35,13 @@ Tenho foco em:
 - **Qualidade, governança e performance**
 - Boas práticas de engenharia e arquitetura de dados
 
-### Linguagens ​​e Tecnologias
+I have a focus on:
+- Batch and real-time data;
+- Cloud & Big Data;
+- Qualiry, governce and performace;
+- Good data enginner and architecture pratices. 
+
+### Languages and Technologies
 
 <img 
     align="left"
@@ -148,9 +155,9 @@ Tenho foco em:
 <br>
 <br>
 
-### Certificações
+### Certifications
 
-| Certificação | Instituição | Link |
+| Certifications | Institution | Link |
 |-------------|------------|------|
 | Microsoft Certified: Azure Fundamentals | Microsoft | [Azure Fundamentals](https://learn.microsoft.com/en-us/users/icaromartins/credentials/c35fab8d496bb26b) |
 | Microsoft Certified: Azure Data Fundamentals | Microsoft | [Azure Data Fundamentals](https://learn.microsoft.com/en-us/users/icaromartins/credentials/8552a937ea0dd563) |
@@ -163,6 +170,10 @@ Tenho foco em:
 
 ### 🎯 **Objetivo deste repositório:**  
 Servir como **portfólio técnico** para recrutadores, líderes técnicos e profissionais da área de dados.
+
+### 🎯 **Purpose of this repository:**  
+To serve as a **technical portfolio** for recruiters, techninal leaders and data professionals
+
 
 ### 🗂️ Estrutura do Repositório
 
