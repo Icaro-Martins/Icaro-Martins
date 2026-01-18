@@ -178,7 +178,7 @@ This structure follows the Lakehouse Medallion architecture standard (`Bronze`, 
 📄 **Documentation**
 > [See full documentation on the Wiki](https://github.com/Icaro-Martins/databricks/wiki/)
 
-🔗 **Código**
+🔗 **Code**
 > [Access project (`branch: databricks`)](https://github.com/Icaro-Martins/databricks/)
 
 ⚠️ **`Attention:`** `Due to GitHub policy, the documentaion and code will open in the same tab`
