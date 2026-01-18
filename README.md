@@ -202,17 +202,19 @@ The projects are organized within the **`branch - databricks`** following data e
 ```
 Essa estrutura segue o padrão da arquitetura Medallion do Lakehouse (`Bronze`, `Silver` e `Gold`), garantindo qualidade, rastreabilidade e escalabilidade dos dados.
 
-### 📚 Documentação & Arquitetura
+This structure follows the Lakehouse Medallion architecture standard (`Bronze`, `Silver` and `Gold`) ensuring data quality, traceability and scalability.
 
-📄 **Documentação**
-> [Ver documentação completa na Wiki](https://github.com/Icaro-Martins/databricks/wiki/)
+### 📚 Documentation & Architecture
+
+📄 **Documentation**
+> [See full documentation on the Wiki](https://github.com/Icaro-Martins/databricks/wiki/)
 
 🔗 **Código**
-> [Acessar projeto (branch databricks)](https://github.com/Icaro-Martins/databricks/)
+> [Access project (`branch: databricks`)](https://github.com/Icaro-Martins/databricks/)
 
-⚠️ **`Atenção:`** `Por política do github, a documentação e códigos, abrem na mesma aba.`
+⚠️ **`Attention:`** `Due to GitHub policy, the documentaion and code will open in the same tab`
 
-### 📬 Conecte-se comigo
+### 📬 Connect with me
 <img 
     align="left"
     alt="LinkedIn"
