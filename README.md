@@ -1,39 +1,17 @@
 ## 📊 **PORTFOLIO – DATA ENGINEER**
 
-Bem-vindo(a) ao meu repositório de **estudos e projetos práticos em Engenharia de Dados**.  
-Este espaço foi criado para demonstrar, de forma organizada e prática, minhas habilidades técnicas, arquitetura de dados e boas práticas aplicadas em projetos reais e simulados.
-
 Welcome to in my portfolio of **studies and projects pratical in data engineer**.  
 This space was created to demonstrated, in a organized and pratical way, my technical skills, data architecture, and best practices applied in real and simulated projects.
 
 ## About me
 
-Sou **Engenheiro de Dados**, com experiência na construção de pipelines de dados de ponta a ponta — 
-desde a extração e ingestão até a modelagem e disponibilização para consumo analítico.
-
 I'm a **Data Engineer**, with experince in building end-to-end data pipelines — from data retrieval and consumption to modeling and making data available for analytical consumption.
-
-Atuo criando **soluções de dados escaláveis, confiáveis e orientadas a negócio**, 
-trabalhando com grandes volumes de dados em ambientes **cloud e big data**, 
-sempre com foco em **performance, governança e qualidade da informação**.
 
 I work creating **scalable, reliable and bussiness oriented data solutions**, working with large volumes of data in **cloud and big data** environments, always focusing on **performance, governance and information quality**.
 
-Tenho experiência no desenvolvendo de pipelines que garantem dados consistentes, rastreáveis e prontos para apoiar 
-tomadas de decisão, análises estratégicas e produtos de dados.
-
 I have experience in developing pipelines that ensure consistent, traceable data ready to support decision-making, strategic analysis and data products.
 
-No dia a dia, busco aplicar **boas práticas de engenharia e arquitetura de dados**, 
-pensando não apenas na entrega técnica, mas também em **custo, manutenção e evolução da solução ao longo do tempo**.
-
 In my day-to-day work, I strive to apply **best practices in data engineer and architecture** considering not only the technical delivery, but also **cost, maintenance and**
-
-Tenho foco em:
-- Dados em **batch e tempo real**
-- **Cloud & Big Data**
-- **Qualidade, governança e performance**
-- Boas práticas de engenharia e arquitetura de dados
 
 I have a focus on:
 - Batch and real-time data;
@@ -168,19 +146,12 @@ I have a focus on:
 
 <br>
 
-### 🎯 **Objetivo deste repositório:**  
-Servir como **portfólio técnico** para recrutadores, líderes técnicos e profissionais da área de dados.
-
 ### 🎯 **Purpose of this repository:**  
 To serve as a **technical portfolio** for recruiters, techninal leaders and data professionals
 
-
-### 🗂️ Estrutura do Repositório
-
-Os projetos estão organizados dentro da **`branch - databricks`** seguindo boas práticas de engenharia de dados:
-
 ### 🗂️ Repos Structure
 The projects are organized within the **`branch - databricks`** following data engineer best practices::
+
 ```text
 🌿 branch - databricks
 ├── 📚 studies/
@@ -200,8 +171,6 @@ The projects are organized within the **`branch - databricks`** following data e
 └── 🗂️ docs/
     └── 📘 notebooks_html/  # Used for display in wiki to reference projects.
 ```
-Essa estrutura segue o padrão da arquitetura Medallion do Lakehouse (`Bronze`, `Silver` e `Gold`), garantindo qualidade, rastreabilidade e escalabilidade dos dados.
-
 This structure follows the Lakehouse Medallion architecture standard (`Bronze`, `Silver` and `Gold`) ensuring data quality, traceability and scalability.
 
 ### 📚 Documentation & Architecture
